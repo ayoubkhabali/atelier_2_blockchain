@@ -1,0 +1,8 @@
+download Visual Studio 2019
+Press Windows key type "x64 Native Tools Command Prompt for VS 2019" and Open as administrator
+cd "path\to\atelier_2_blockchain\atelier2-part1"
+mkdir build-vs
+cd build-vs
+cmake .. -G "Visual Studio 16 2019" -A x64
+cmake --build . --config Release
+Release\atelier2_part1.exe

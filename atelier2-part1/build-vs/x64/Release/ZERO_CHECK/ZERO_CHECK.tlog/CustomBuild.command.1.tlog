@@ -1,0 +1,10 @@
+^C:\USERS\ASUS\DOCUMENTS\S3\BLOCKCHAIN\TP2\ATELIER_2_BLOCKCHAIN\ATELIER2-PART1\BUILD-VS\CMAKEFILES\E293F184928E8BF0BA2B5DA2A9A754B4\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Asus/Documents/S3/BLOCKCHAIN/TP2/atelier_2_blockchain/atelier2-part1 -BC:/Users/Asus/Documents/S3/BLOCKCHAIN/TP2/atelier_2_blockchain/atelier2-part1/build-vs --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Asus/Documents/S3/BLOCKCHAIN/TP2/atelier_2_blockchain/atelier2-part1/build-vs/Atelier2.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

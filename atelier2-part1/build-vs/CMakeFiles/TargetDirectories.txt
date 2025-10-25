@@ -1,0 +1,3 @@
+C:/Users/Asus/Documents/S3/BLOCKCHAIN/TP2/atelier_2_blockchain/atelier2-part1/build-vs/CMakeFiles/atelier2_part1.dir
+C:/Users/Asus/Documents/S3/BLOCKCHAIN/TP2/atelier_2_blockchain/atelier2-part1/build-vs/CMakeFiles/ALL_BUILD.dir
+C:/Users/Asus/Documents/S3/BLOCKCHAIN/TP2/atelier_2_blockchain/atelier2-part1/build-vs/CMakeFiles/ZERO_CHECK.dir

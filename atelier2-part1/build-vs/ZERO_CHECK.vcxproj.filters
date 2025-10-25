@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Asus\Documents\S3\BLOCKCHAIN\TP2\atelier_2_blockchain\atelier2-part1\build-vs\CMakeFiles\e293f184928e8bf0ba2b5da2a9a754b4\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4B5B5075-1611-399A-9044-1FC476A87B76}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
